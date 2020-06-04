@@ -190,11 +190,3 @@ while (cur < size){
 继承QTcpServer重写incommingConnect，实现多线程
 
 注意：不同线程之间connect，不要用lambda表达式
-
-2015 A教训 用lineEdit，不用spinBox
-
-2017 C教训 慎用QDataStream的流运算符，改用writeByte(字符串)，writeRawData(基本数据)
-
-C:\Users\dell\Desktop\exam2\exam2\1\Jungle_Juice.mp3
-
-C:\Users\dell\Desktop\exam2\exam2\1\1.mp3
