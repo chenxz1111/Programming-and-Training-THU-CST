@@ -52,22 +52,22 @@ python manage.py runserver
 ### 功能展示
 
 ##### 主页
-![1](.\img\1.jpg)
+![1](./img/1.jpg)
 ##### 搜索页
-![2](.\img\2.jpg)
-![3](.\img\3.jpg)
+![2](./img/2.jpg)
+![3](./img/3.jpg)
 
 ##### 新闻页
-![5](.\img\5.jpg)
-![6](.\img\6.jpg)
+![5](./img/5.jpg)
+![6](./img/6.jpg)
 
 ##### 球队热度排行
-![4](.\img\4.jpg)
+![4](./img/4.jpg)
 
 ##### 球队主页
 
-![7](.\img\7.jpg)
-![8](.\img\8.jpg)
+![7](./img/7.jpg)
+![8](./img/8.jpg)
 
 ### 架构与算法简述
 
