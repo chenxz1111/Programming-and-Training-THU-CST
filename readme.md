@@ -17,8 +17,3 @@
 大作业：NBA新闻搜索引擎
 
 考试还是很难。第一题离线测试，得分未知。第二题最后一个功能没写完。总得分11~/15。
-
-
-
-Hopefully, the repository can be helpful for someone.
-
